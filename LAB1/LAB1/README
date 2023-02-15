@@ -11,3 +11,11 @@ Steps of solving LAB1:
 # We again ask for user input for state the user is from and run a switch case.
 # In the switch case we run cases for every state possible and return the region accordingly.
 # Lastly along with showing the regions we will also show the basic details as well.
+
+To save the code in github,do the following:
+# git add --all
+# git commit -m "lab 1"
+# git config --global user.email satyajit.pandey@msds.christuniversity.in
+# --global user.name "Lab 01"
+# git commit -m "lab 1"
+# git push
