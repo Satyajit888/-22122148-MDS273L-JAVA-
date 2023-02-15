@@ -3,6 +3,7 @@ After the details have been displayed, with the help of conditional statements, 
 Assume that you can divide the states among India into four different regions (North, South, East, and West). If you are from the southern part of India; with the help of a switch statement, it should display The Student is from the southern states of India", along with the basic details.
 
 Steps of solving LAB1:
+<<<<<<< HEAD:LAB1/LAB1/README
 # Import scanner class.
 # Declare a class.
 # Declare required variables for Name,Class,Age,State.
@@ -19,3 +20,13 @@ To save the code in github,do the following:
 # --global user.name "Lab 01"
 # git commit -m "lab 1"
 # git push
+=======
+* Import scanner class.
+* Declare a class.
+* Declare required variables for Name,Class,Age,State.
+* Take user inputs from the user for entering the name,class,age and gender.
+* After the user inputs m/f or M/F,we return the MALE or FEMALE accordingly using if condition.
+* We again ask for user input for state the user is from and run a switch case.
+* In the switch case we run cases for every state possible and return the region accordingly.
+* Lastly along with showing the regions we will also show the basic details as well.
+>>>>>>> c6f42ce4bbb8730cd76fcb51198420e246465125:LAB/README
