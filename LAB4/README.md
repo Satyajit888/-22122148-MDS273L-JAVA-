@@ -17,5 +17,8 @@ To print account summary
 You need to draw a flowchart and structure your results and program description, and other details in README.md.
 Before working on the code, write the logic (algorithm/flowchart) in your observation note.
 
-* Declare the global variables
-* Create function for different tasks
+* Declare the global variables.
+* Create function for different tasks.
+* Create a main method for making the menu driven switch case.
+* Call all the functions accordingly.
+* End
